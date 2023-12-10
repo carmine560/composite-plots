@@ -10,11 +10,11 @@ The `composite-plots.sh` Bash script composites scanned scatter plots using
 ## Prerequisites ##
 
 `composite-plots.sh` has been tested on Debian on WSL and uses the following
-packages:
+command and package:
 
   * [`align_image_stack`](https://wiki.panotools.org/Align_image_stack) from
-    Hugin to align scanned images
-  * ImageMagick 6 to convert and composite aligned images
+    Hugin to align scanned scatter plots
+  * ImageMagick 6 to convert and composite aligned scatter plots
 
 Install each package as needed.  For example:
 
