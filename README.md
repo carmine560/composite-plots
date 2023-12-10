@@ -3,9 +3,9 @@
 <!-- Bash script that composites scanned scatter plots using Hugin and
 ImageMagick 6 -->
 
-The `composite-plots.sh` Bash script composites scanned scatter plots using
-[Hugin](https://hugin.sourceforge.io/) and [ImageMagick
-6](https://legacy.imagemagick.org/).
+The `composite-plots.sh` Bash script composites scanned scatter plots to
+compare the distributions using [Hugin](https://hugin.sourceforge.io/) and
+[ImageMagick 6](https://legacy.imagemagick.org/).
 
 ## Prerequisites ##
 
