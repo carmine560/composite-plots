@@ -9,7 +9,7 @@ compare the distributions using [Hugin](https://hugin.sourceforge.io/) and
 
 ## Prerequisites ##
 
-`composite-plots.sh` has been tested on Debian Testing on WSL and uses the
+`composite-plots.sh` has been tested on Debian Testing on WSL 2 and uses the
 following command and package:
 
   * [`align_image_stack`](https://wiki.panotools.org/Align_image_stack) from
