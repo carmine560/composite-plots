@@ -25,9 +25,9 @@ sudo apt install imagemagick-6.q16
 
 ## Usage ##
 
-`composite-plots.sh` will create a `~/.config/$USER/composite-plots.cfg`
-configuration file if it does not exist. Replace the default values in it with
-yours. Then:
+`composite-plots.sh` will create a
+`~/.config/composite-plots/composite-plots.cfg` configuration file if it does
+not exist. Replace the default values in it with yours. Then:
 
 ``` shell
 composite-plots.sh input_1 input_2 [... input_4]
