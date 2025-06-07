@@ -35,7 +35,7 @@ composite_plots.sh input_1 input_2 [... input_4]
 
 ## License ##
 
-The [MIT License](LICENSE.md)
+This project is licensed under the [MIT License](LICENSE.md).
 
 ## Link ##
 
